@@ -84,12 +84,6 @@ Winter season experiences the highest pollution levels.
 Certain cities consistently report poor air quality.
 Random Forest achieved the best predictive performance.
 Machine learning effectively predicts AQI using pollutant concentrations.
-📷 Dashboard Preview
-
-Add screenshots here:
-
-Images/Dashboard_Page1.png
-Images/Dashboard_Page2.png
 🚀 Future Enhancements
 Real-time AQI prediction using APIs.
 Deep Learning models.
